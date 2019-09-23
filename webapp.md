@@ -1,6 +1,6 @@
 # Reddit_WordCloud
 ## Pre-requisites
-First, clone this repository like so: ```git clone https://github.com/wphyo3820/Reddit_WordCloud.git```
+First, clone this repository.
 
 Then, make sure you have python, pip and virtualenv installed. If not follow the instructions here: https://packaging.python.org/guides/installing-using-pip-and-virtualenv/
 
